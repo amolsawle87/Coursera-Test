@@ -1,2 +1,2 @@
-# Coursera-Test/index.html
+# Coursera-Test
 Coursera Test Repository
