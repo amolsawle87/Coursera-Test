@@ -36,7 +36,7 @@ Coursera Test Repository
 </div>
 
 <h2> Certificate </h2>
-(https://github.com/amolsawle87/Coursera-Test/files/6448004/Coursera.YDVH5QH6E5CP.pdf)
+https://coursera.org/share/31d85d853b6c08c0b9c9434400995ac8
 
 
 
