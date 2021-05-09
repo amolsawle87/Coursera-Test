@@ -35,6 +35,10 @@ Coursera Test Repository
 <a href="https://amolsawle87.github.io/Coursera-Test/Assignments/mod5_sol/index.html">Module 5 Assignment Solution </a>
 </div>
 
+<h2> Certificate </h2>
+[Coursera YDVH5QH6E5CP.pdf](https://github.com/amolsawle87/Coursera-Test/files/6448004/Coursera.YDVH5QH6E5CP.pdf)
+
+
 
 
 
