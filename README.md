@@ -36,7 +36,7 @@ Coursera Test Repository
 </div>
 
 <h2> Certificate </h2>
-https://coursera.org/share/31d85d853b6c08c0b9c9434400995ac8
+<a href="https://coursera.org/share/31d85d853b6c08c0b9c9434400995ac8"> See Here </a>
 
 
 
